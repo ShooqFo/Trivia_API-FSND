@@ -1,7 +1,12 @@
 .vscode
 __pycache__
 venv
-
+.vscode
+__pycache__
+/backend/__pycache__
+/backend/flaskr/__pycache__
+/frontend/node_modules
+/frontend/node_modules/
 # OS generated files #
 ######################
 .DS_Store
